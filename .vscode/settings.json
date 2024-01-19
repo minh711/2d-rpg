@@ -56,5 +56,6 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "2D-RPG.sln"
+    "dotnet.defaultSolution": "2D-RPG.sln",
+    "dotnet.preferCSharpExtension": true
 }
